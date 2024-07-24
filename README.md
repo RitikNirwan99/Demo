@@ -1,2 +1,4 @@
 # Demo
-demo/practice for git
+this is my first git repository
+<br>
+author - Ritik Nirwan
